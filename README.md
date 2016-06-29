@@ -1,1 +1,2 @@
-# template
+# template - combined frontend and backend
+
